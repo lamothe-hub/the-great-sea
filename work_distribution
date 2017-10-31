@@ -1,0 +1,8 @@
+Jeffrey Lamothe (me): implemented log class and enemy class, created mechanism for log and enemy spawns + deletions, 
+  implemented randomness for spawn times, created two modes: easy and hard, implemented game flow logic
+  
+Partner 1: Declared other class functions, created artwork, created object collision mechanism
+
+Partner 2: Helped with object collision, helped with final debugging
+
+*Partners are annonymous in case they do not wish to be named. 
